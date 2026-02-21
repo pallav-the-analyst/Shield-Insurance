@@ -6,7 +6,7 @@ The project focuses on transforming 6 months of business data into clear, intera
 ---
 
 🔗 **Live Dashboard Link**  
-[Click here to view the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTI2M2NiNDgtMTFmZC00ZjczLWE2MDgtYTZhZjQzMTVhOTczIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Click here to view the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWNlNWQ4MjYtYmVlMC00ZjczLWI3YTMtNmQyNzVmOTIzYTYzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
