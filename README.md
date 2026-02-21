@@ -29,28 +29,23 @@ This analysis focuses on:
 
 ### **Home Page**  
 A simple navigation hub that links to all dashboard sections.  
-![Home Page](screenshots/Home_Page.png)
+![Home Page](https://github.com/pallav-the-analyst/Shield-Insurance/blob/main/Images/Shield%20Insurance%20Analysis_page-0001.jpg)
 ---
 
 ### **General View**  
 A complete business snapshot showing total revenue, customers, monthly trends, and demographic contributions.  
-![General View](screenshots/General_View.png) 
+![General View](https://github.com/pallav-the-analyst/Shield-Insurance/blob/main/Images/Shield%20Insurance%20Analysis_page-0002.jpg) 
 ---
 
 ### **Sales Mode Analysis**  
 A channel performance view comparing offline vs digital customer acquisition and revenue contribution.  
-![Sales Mode Analysis](screenshots/Sales_Mode_Analysis.png)
+![Sales Mode Analysis](https://github.com/pallav-the-analyst/Shield-Insurance/blob/main/Images/Shield%20Insurance%20Analysis_page-0003.jpg)
 ---
 
 ### **Age Group Analysis**  
 A demographic analysis showing revenue, customer trends, policy distribution, and expected settlement across age groups.  
-![Age Group Analysis](screenshots/Age_Group_Analysis.png)
----
+![Age Group Analysis](https://github.com/pallav-the-analyst/Shield-Insurance/blob/main/Images/Shield%20Insurance%20Analysis_page-0004.jpg)
 
-## 🗂️ Data Model Screenshot
-A visual representation of the data model used to build the dashboard.  
-![Data Model](screenshots/Data_Model.png)
----
 
 ## 🔍 Key Insights
 
@@ -93,6 +88,6 @@ A visual representation of the data model used to build the dashboard.
 
 ---
 
-**Rishita Singh**  
+**Pallav Bhandari**  
 
-LinkedIn: https://www.linkedin.com/in/rishitasingh27/
+LinkedIn: https://www.linkedin.com/in/pallav-bhandari/
